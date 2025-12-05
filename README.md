@@ -1,5 +1,5 @@
 # 💫 Hi! I'm Fábio Gaspar
-a junior Game & Software Developer passionate about building interactive experiences whether that's gameplay systems, tools, or full applications.  My journey started with a professional course in Computer Systems Management and Programming, and since then I’ve worked with a wide range of technologies from C++, C#, Lua, JavaScript to Unity and Unreal Engine 5.<br><br>🔭 An opportunity as an Entry/Junior Software or Game Developer where I can keep learning, contribute to real projects, and grow alongside a great team.<br><br>🌱 I’m currently learning about AI agents, LLMs, and automation, exploring how they can improve workflows and enhance game/system design.<br><br>🌐 Portfolio - https://fabiogaspar.dev<br><br><br><br><br><br><br>
+I'm a junior Game & Software Developer passionate about building interactive experiences whether that's gameplay systems, tools, or full applications.  My journey started with a professional course in Computer Systems Management and Programming, and since then I’ve worked with a wide range of technologies from C++, C#, Lua, JavaScript to Unity and Unreal Engine 5.<br><br>🔭 An opportunity as an Entry/Junior Software or Game Developer where I can keep learning, contribute to real projects, and grow alongside a great team.<br><br>🌱 I’m currently learning about AI agents, LLMs, and automation, exploring how they can improve workflows and enhance game/system design.<br><br>🌐 Portfolio - https://fabiogaspar.dev<br><br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
@@ -11,11 +11,5 @@ a junior Game & Software Developer passionate about building interactive experie
 ![](https://github-readme-stats.vercel.app/api?username=MilkaII&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MilkaII&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MilkaII&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MilkaII&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MilkaII&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
